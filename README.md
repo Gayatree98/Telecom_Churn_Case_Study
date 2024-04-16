@@ -8,6 +8,7 @@ To reduce customer churn, telecom companies need to predict which customers are 
 In this project, we will analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.
 
 Understanding and Defining Churn
+
 There are two main models of payment in the telecom industry - postpaid (customers pay a monthly/annual bill after using the services) and prepaid (customers pay/recharge with a certain amount in advance and then use the services).
 
 In the postpaid model, when customers want to switch to another operator, they usually inform the existing operator to terminate the services, and we directly know that this is an instance of churn.
@@ -19,6 +20,7 @@ Thus, churn prediction is usually more critical (and non-trivial) for prepaid cu
 This project is based on the Indian and Southeast Asian market.
 
 Definitions of Churn
+
 There are various ways to define churn, such as:
 
 Revenue-based churn: Customers who have not utilised any revenue-generating facilities such as mobile internet, outgoing calls, SMS etc. over a given period of time. One could also use aggregate metrics such as ‘customers who have generated less than INR 4 per month in total/average/median revenue’.
